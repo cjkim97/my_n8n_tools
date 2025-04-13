@@ -7,7 +7,7 @@ N8N의 Code 노드만으로는 한계가 있거나, 외부에서 별도로 작�
 - 본 저장소에 포함된 도구들은 개인 또는 비상업적 용도에 적합합니다.
 
 ## 🗂️ Tools List
-- [오늘의 운세 조회 API](#-오늘의-운세-조회-api-crawltodayluckpy)
+- [오늘의 운세 조회 API](#-오늘의-운세-조회-api-crawl_today_luckpy)
 
 ---
 
